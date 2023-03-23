@@ -4,8 +4,7 @@ Its a real time data available from City Of Toronto - Open Data Portal. My analy
 Right now, I have further studied the data & tried to relate the features & its importance & cleaned them further.
 I am working on creating some sheets, that look simple yet conveys the insights easily. looking forward to share my dashboard soon !!
 
-<!DOCTYPE html>
-<html>
+
 <head>
 	<meta charset="utf-8">
 	<title>Major Crime Indicators in Toronto</title>
@@ -34,5 +33,4 @@ I am working on creating some sheets, that look simple yet conveys the insights 
 
 	<h1>Conclusion</h1>
 	<p>By analyzing major crime indicators in Toronto, this project provides valuable insights that can help law enforcement agencies better understand crime patterns and take proactive measures to prevent crime. Through this project, I applied my analytical and data visualization skills to analyze real-world data and draw valuable insights. Check out my Tableau visualization dashboard and provide your feedback. Thank you for your support!</p>
-</body>
-</html>
+
