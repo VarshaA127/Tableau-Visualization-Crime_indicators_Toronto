@@ -1,8 +1,8 @@
-<img align="center" src="images/tableau2.png" height=300>
+<img align="center" src="images/tableau2.png" height=100>
 
 # Major Crime Indicators in Toronto using Tableau
 
-<img align="center" src="images/Toronto-Police-Service1.png" height=300>
+<img align="center" src="images/Toronto-Police-Service1.png" height=200>
 
 ## Introduction
 
