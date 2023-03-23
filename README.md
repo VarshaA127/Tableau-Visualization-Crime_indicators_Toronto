@@ -4,7 +4,7 @@
 
 ## Introduction
 
-	The <b>Major Crime Indicators </b> dataset is a <i>real time data</i> that provides information about the number of incidents for different categories of crimes reported by the <b>Toronto Police Service</b>. The dataset can be accessed from <a href="https://open.toronto.ca/">here</a>. The dataset contains information such as the occurrence date and time, division, category, and location of the incident. In this project, I created an interactive <b>Tableau visualization dashboard</b> to analyze the data and draw insights.
+The <b>Major Crime Indicators </b> dataset is a <i>real time data</i> that provides information about the number of incidents for different categories of crimes reported by the <b>Toronto Police Service</b>. The dataset can be accessed from <a href="https://open.toronto.ca/">here</a>. The dataset contains information such as the occurrence date and time, division, category, and location of the incident. In this project, I created an interactive <b>Tableau visualization dashboard</b> to analyze the data and draw insights.
 	My analysis involve cleaning and processing the data, followed by utilizing Tableau to perform advanced analysis and generate valuable insights.
 
 ## Key Features
