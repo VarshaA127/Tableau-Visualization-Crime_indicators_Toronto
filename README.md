@@ -1,8 +1,8 @@
 # Major Crime Indicators in Toronto using Tableau
 
-<img align="center" src="images/Toronto-Police-Service1.png" height=200> <img align="center" src="images/tableau2.png" height=100>
+<img align="center" src="images/Toronto-Police-Service1.png" height=200> <img align="center" src="images/tableau2.png" height=200>
 
-You can view my Interactive Tableau Dashboard <a href="https://public.tableau.com/app/profile/varsha.agarwal127/viz/Major_crime_indicator/major_crime_indicators"> here</a>
+You can view my Interactive Tableau Dashboard  <a href="https://public.tableau.com/app/profile/varsha.agarwal127/viz/Major_crime_indicator/major_crime_indicators"> here</a>
 
 ## Introduction
 
