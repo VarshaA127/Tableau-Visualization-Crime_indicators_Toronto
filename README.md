@@ -9,7 +9,7 @@ I am working on creating some sheets, that look simple yet conveys the insights 
 # Major Crime Indicators in Toronto</title>
 
 ## Introduction
-	<p>The Major Crime Indicators dataset is a real time data that provides information about the number of incidents for different categories of crimes reported by the Toronto Police Service from 2014 to 2022. The dataset can be accessed from <a href="https://open.toronto.ca/">here</a>. The dataset contains information such as the occurrence date and time, division, category, and location of the incident. In this project, I created an interactive Tableau visualization dashboard to analyze the data and draw insights.</p>
+	The Major Crime Indicators dataset is a real time data that provides information about the number of incidents for different categories of crimes reported by the Toronto Police Service from 2014 to 2022. The dataset can be accessed from <a href="https://open.toronto.ca/">here</a>. The dataset contains information such as the occurrence date and time, division, category, and location of the incident. In this project, I created an interactive Tableau visualization dashboard to analyze the data and draw insights.
 	My analysis involve cleaning and processing the data, followed by utilizing Tableau to perform advanced analysis and generate valuable insights.
 
 ## Key Features
@@ -27,6 +27,6 @@ I am working on creating some sheets, that look simple yet conveys the insights 
 * Assault and auto theft rise steeply as summer approaches, while other categories show a smaller increase.
 * Toronto's downtown area, including Division 51, consistently has the highest crime rates across all categories. Other divisions in Toronto and Mississauga also show high crime rates. 
 
-## Conclusion<
-	<p>By analyzing major crime indicators in Toronto, this project provides valuable insights that can help law enforcement agencies better understand crime patterns and take proactive measures to prevent crime. Through this project, I applied my analytical and data visualization skills to analyze real-world data and draw valuable insights. Check out my Tableau visualization dashboard and provide your feedback. Thank you for your support!</p>
+## Conclusion
+	By analyzing major crime indicators in Toronto, this project provides valuable insights that can help law enforcement agencies better understand crime patterns and take proactive measures to prevent crime. Through this project, I applied my analytical and data visualization skills to analyze real-world data and draw valuable insights. Check out my Tableau visualization dashboard and provide your feedback. Thank you for your support!
 
