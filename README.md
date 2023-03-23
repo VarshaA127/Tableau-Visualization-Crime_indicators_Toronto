@@ -1,8 +1,8 @@
-<img align="center" src="images/tableau2.png" height=100>
-
 # Major Crime Indicators in Toronto using Tableau
 
-<img align="center" src="images/Toronto-Police-Service1.png" height=200>
+<img align="center" src="images/Toronto-Police-Service1.png" height=200> <img align="center" src="images/tableau2.png" height=100>
+
+You can view my Interactive Tableau Dashboard <a href="https://public.tableau.com/app/profile/varsha.agarwal127/viz/Major_crime_indicator/major_crime_indicators"> here</a>
 
 ## Introduction
 
@@ -40,7 +40,6 @@ Figure: Flow Chart
 Figure: Flow Chart
 
 ## Conclusion
-You can view my Interactive Tableau Dashboard<a href="https://public.tableau.com/app/profile/varsha.agarwal127/viz/Major_crime_indicator/major_crime_indicators">here</a>
 
 By analyzing major crime indicators in Toronto, this project provides valuable insights that can help law enforcement agencies better understand crime patterns and take proactive measures to prevent crime. Through this project, I applied my analytical and data visualization skills to analyze real-world data and draw valuable insights. Check out my Tableau visualization dashboard and provide your feedback. Thank you for your support
 
