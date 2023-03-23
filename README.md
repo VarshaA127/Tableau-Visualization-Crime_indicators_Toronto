@@ -2,7 +2,9 @@
 
 <img align="center" src="images/Toronto-Police-Service1.png" height=200> <img align="center" src="images/tableau2.png" height=200>
 
-You can view my Interactive Tableau Dashboard  <a href="https://public.tableau.com/app/profile/varsha.agarwal127/viz/Major_crime_indicator/major_crime_indicators"> here</a> <img align="center" src="images/tableauProject.JPG" height=200>
+Now this is how my dashboard looks like <img align="center" src="images/tableauProject.JPG" height=200>
+
+You can view & play with my entire Interactive Tableau Dashboard <a href="https://public.tableau.com/app/profile/varsha.agarwal127/viz/Major_crime_indicator/major_crime_indicators"> here</a> 
 
 ## Introduction
 
