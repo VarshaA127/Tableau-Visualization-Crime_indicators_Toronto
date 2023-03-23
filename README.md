@@ -23,20 +23,20 @@ The <b>Major Crime Indicators </b> dataset is a <i>real time data</i> that provi
 Figure: Flow Chart
 •	Auto theft shows a steady increase in percentage from 2014 (16.4%) to 2022 (22.9%), even during the COVID-19 pandemic. 
 
-<img align="center" src="images/graph2 .png" height=300>
+<img align="center" src="images/graph2.JPG" height=300>
 Figure: Flow Chart
 •	Assault is highest on weekends, while auto theft is high on weekdays. Its subcategory "premises type" indicates that most thefts happen in outside areas such as parking lots or outside of malls.
 
-<img align="center" src="images/graph3.png" height=300>
+<img align="center" src="images/graph3.JPG" height=300>
 Figure: Flow Chart
 •	Assault and auto theft rise steeply as summer approaches, while other categories show a smaller increase.
 
-<img align="center" src="images/graph4.png" height=300>
+<img align="center" src="images/graph4.JPG" height=300>
 Figure: Flow Chart
 •	Toronto's downtown area, including Division 51, consistently has the highest crime rates across all categories. Other divisions in Toronto and Mississauga also show high crime rates. 
 
-<img align="center" src="images/graph5.png" height=200>
-<img align="center" src="images/graph6.png" height=400>
+<img align="center" src="images/graph5.JPG" height=200>
+<img align="center" src="images/graph6.JPG" height=400>
 Figure: Flow Chart
 
 ## Conclusion
