@@ -1,6 +1,8 @@
-# Major Crime Indicators in Toronto
+<img align="center" src="images/tableau2.png" height=300>
 
-<img align="center" src="img/Toronto-Police-Service1.png" height=300>
+# Major Crime Indicators in Toronto using Tableau
+
+<img align="center" src="images/Toronto-Police-Service1.png" height=300>
 
 ## Introduction
 
@@ -17,25 +19,28 @@ The <b>Major Crime Indicators </b> dataset is a <i>real time data</i> that provi
 
 ## Findings
 •	The top three incident categories are assault (24.7%), break and enter (22.7%), and auto theft (18.7%).
-<img align="center" src="img/flowdiagram.png" height=900>
+<img align="center" src="images/graph1.JPG" height=900>
 Figure: Flow Chart
 •	Auto theft shows a steady increase in percentage from 2014 (16.4%) to 2022 (22.9%), even during the COVID-19 pandemic. 
 
-<img align="center" src="img/chart2 .png" height=900>
+<img align="center" src="images/graph2 .png" height=900>
 Figure: Flow Chart
 •	Assault is highest on weekends, while auto theft is high on weekdays. Its subcategory "premises type" indicates that most thefts happen in outside areas such as parking lots or outside of malls.
 
-<img align="center" src="img/chart3.png" height=900>
+<img align="center" src="images/graph3.png" height=900>
 Figure: Flow Chart
 •	Assault and auto theft rise steeply as summer approaches, while other categories show a smaller increase.
 
-<img align="center" src="img/chart4.png" height=900>
+<img align="center" src="images/graph4.png" height=900>
 Figure: Flow Chart
 •	Toronto's downtown area, including Division 51, consistently has the highest crime rates across all categories. Other divisions in Toronto and Mississauga also show high crime rates. 
 
-<img align="center" src="img/chart5.png" height=900>
+<img align="center" src="images/graph5.png" height=900>
+<img align="center" src="images/graph6.png" height=900>
 Figure: Flow Chart
 
 ## Conclusion
+You can view my Interactive Tableau Dashboard<a href="https://public.tableau.com/app/profile/varsha.agarwal127/viz/Major_crime_indicator/major_crime_indicators">here</a>
 
 By analyzing major crime indicators in Toronto, this project provides valuable insights that can help law enforcement agencies better understand crime patterns and take proactive measures to prevent crime. Through this project, I applied my analytical and data visualization skills to analyze real-world data and draw valuable insights. Check out my Tableau visualization dashboard and provide your feedback. Thank you for your support
+
