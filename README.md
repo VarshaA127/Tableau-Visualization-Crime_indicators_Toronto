@@ -41,6 +41,7 @@ Figure:  Chart <br><br>
 <img align="center" src="images/graph6.JPG" height=400>
 Figure:  Chart
 <br><br>
+
 ## Conclusion
 
 By analyzing major crime indicators in Toronto, this project provides valuable insights that can help law enforcement agencies better understand crime patterns and take proactive measures to prevent crime. Through this project, I applied my analytical and data visualization skills to analyze real-world data and draw valuable insights. Check out my Tableau visualization dashboard and provide your feedback. Thank you for your support
