@@ -22,25 +22,25 @@ The <b>Major Crime Indicators </b> dataset is a <i>real time data</i> that provi
 ## Findings
 •	The top three incident categories are assault (24.7%), break and enter (22.7%), and auto theft (18.7%).
 <img align="center" src="images/graph1.JPG" height=300>
-Figure: Flow Chart
+Figure: Chart<br><br>
 •	Auto theft shows a steady increase in percentage from 2014 (16.4%) to 2022 (22.9%), even during the COVID-19 pandemic. 
 
 <img align="center" src="images/graph2.JPG" height=300>
-Figure: Flow Chart
+Figure: Chart <br><br>
 •	Assault is highest on weekends, while auto theft is high on weekdays. Its subcategory "premises type" indicates that most thefts happen in outside areas such as parking lots or outside of malls.
 
 <img align="center" src="images/graph3.JPG" height=300>
-Figure: Flow Chart
+Figure:  Chart <br><br>
 •	Assault and auto theft rise steeply as summer approaches, while other categories show a smaller increase.
 
 <img align="center" src="images/graph4.JPG" height=300>
-Figure: Flow Chart
+Figure:  Chart <br><br>
 •	Toronto's downtown area, including Division 51, consistently has the highest crime rates across all categories. Other divisions in Toronto and Mississauga also show high crime rates. 
 
 <img align="center" src="images/graph5.JPG" height=200>
 <img align="center" src="images/graph6.JPG" height=400>
-Figure: Flow Chart
-
+Figure:  Chart
+<br><br>
 ## Conclusion
 
 By analyzing major crime indicators in Toronto, this project provides valuable insights that can help law enforcement agencies better understand crime patterns and take proactive measures to prevent crime. Through this project, I applied my analytical and data visualization skills to analyze real-world data and draw valuable insights. Check out my Tableau visualization dashboard and provide your feedback. Thank you for your support
